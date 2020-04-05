@@ -25,4 +25,8 @@ public class Calculator {
         }
         return quotient;
     }
+
+    public int modulus(int x, int y) {
+        return (x % y);
+    }
 }
