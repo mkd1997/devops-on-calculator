@@ -16,7 +16,13 @@ public class Caculator {
         return (x * y);
     }
 
-    public int divide(int x, int y) {
-        return (x / y);
+    public double divide(int x, int y) {
+        double quotient;
+        try {
+            quotient = x / y;
+        } catch (Exception e) {
+            quotient = Double.MAX_VALUE;
+        }
+        return quotient;
     }
 }
