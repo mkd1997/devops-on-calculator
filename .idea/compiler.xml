@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="devops-on-calculator" target="1.5" />
+      <module name="devops-on-calculator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
