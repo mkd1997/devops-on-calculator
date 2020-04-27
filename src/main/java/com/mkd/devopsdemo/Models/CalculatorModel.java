@@ -1,9 +1,9 @@
-package com.mkd.devopsdemo;
+package com.mkd.devopsdemo.Models;
 
 /**
  * Caculator
  */
-public class Calculator {
+public class CalculatorModel {
     public int add(int x, int y) {
         return (x + y);
     }
