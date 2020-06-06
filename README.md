@@ -12,4 +12,4 @@ The CI/CD pipeline is built using the following tools:
 5. Deployment: Docker, Rundeck, Jenkins
 6. Monitoring: Elastic Stack
 
-The detailed report for the project can be found here: [CI/CD Pipeline on Calculator Program](Calculator Report.pdf)
+The detailed report for the project can be found here: [CI/CD Pipeline on Calculator Program](https://github.com/mkd1997/devops-on-calculator/blob/master/Calculator%20Report.pdf)
