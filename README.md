@@ -1,5 +1,4 @@
 # CI/CD Pipeline on a Simple Calculator Program
-
 In this project, I aim to automate the development, testing and deployment of a simple calculator program
 by creating a CI/CD pipeline on it. The calculator program developed here is a Spring Boot project
 hosted on an embedded tomcat web server running in a Docker container. The calculator currently supports
@@ -13,4 +12,4 @@ The CI/CD pipeline is built using the following tools:
 5. Deployment: Docker, Rundeck, Jenkins
 6. Monitoring: Elastic Stack
 
-The detailed report for the project can be found here:
+The detailed report for the project can be found here: [CI/CD Pipeline on Calculator Program](Calculator Report.pdf)
