@@ -13,3 +13,11 @@ The CI/CD pipeline is built using the following tools:
 6. Monitoring: Elastic Stack
 
 The detailed report for the project can be found here: [CI/CD Pipeline on Calculator Program](https://github.com/mkd1997/devops-on-calculator/blob/master/Calculator%20Report.pdf)
+
+## Contributing🤝 
+#### Please consider contributing to the project, with your ideas, your artwork, and your code.
+1. Fork it!
+2. Create your branch: git checkout -b branch-name
+3. Commit your changes: git commit -am 'Add some feature or solve bug'
+4. Push to the branch: git push origin branch-name
+### Submit a pull request :D
